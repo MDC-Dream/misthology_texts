@@ -1,0 +1,992 @@
+                                    Testaments of the Twelve Patriarchs
+                                                                        1995
+                                                                     Marty Cauley
+
+SYNOPSIS ..................................................................................................................................................... 1
+
+HISTORICAL REVIEW .............................................................................................................................. 1
+     GROSSETESTE ............................................................................................................................................. 1
+     GRABE........................................................................................................................................................ 2
+     SCHNAPP-CHARLES .................................................................................................................................... 2
+THREE POSITIONS .................................................................................................................................... 3
+     ESSENE ....................................................................................................................................................... 3
+     CHRISTIAN ................................................................................................................................................. 3
+     JEWISH ....................................................................................................................................................... 4
+EVALUATION .............................................................................................................................................. 4
+
+AUTHOR ....................................................................................................................................................... 6
+
+DATE.............................................................................................................................................................. 6
+
+PLACE ........................................................................................................................................................... 6
+
+CANONICITY ............................................................................................................................................... 6
+
+TEXTS............................................................................................................................................................ 7
+     HEBREW ..................................................................................................................................................... 7
+     ARAMAIC ................................................................................................................................................... 7
+     GREEK ........................................................................................................................................................ 7
+     ARMENIAN ................................................................................................................................................. 7
+ORIGINAL LANGUAGE ............................................................................................................................ 7
+
+SIGNIFICANCE ........................................................................................................................................... 8
+     QUMRAN .................................................................................................................................................... 8
+     CHRISTIAN ................................................................................................................................................. 8
+     JEWISH ....................................................................................................................................................... 8
+CONCLUSION .............................................................................................................................................. 9
+
+APPENDIX .................................................................................................................................................. 10
+
+SOURCES CONSULTED .......................................................................................................................... 17
+     BOOKS ...................................................................................................................................................... 17
+     ESSAYS ..................................................................................................................................................... 17
+     PERIODICALS ............................................................................................................................................ 17
+                                                                                                    1
+
+
+
+                                           Synopsis
+       In the biblical account of Genesis 49, Jacob, while sitting on his death bed, called
+his sons to him and told them what would happen to them and their offspring, the twelve
+tribes of Israel. Then Jacob died. The Testaments of the Twelve Patriarchs is modeled on
+this biblical account. Just as in the biblical account when their father had told them what
+would befall them and their offspring just before he died, the Testaments of the Twelve
+Patriarchs (T12P) presents the prophecies of each of Jacob’s twelve sons to their
+offspring just before they die. However, in contrast to the biblical account of Jacob’s
+death bed prophecies about the future, the T12P is not limited to the future. Instead, a
+large portion of the narrative is devoted to describing the twelve sons and giving their
+confessions of sin and exhortations to righteous behavior on the part of their offspring.
+The emphasis is on ethics.
+       Nevertheless, the prophecies are the part of the narrative that attracts a lot of
+attention in scholarly discussions. In 1953 Marinus de Jonge called attention to the fact
+that a pattern of sin, exile, and return (S-E-R theme) can be discerned in these prophecies,
+and his finding has been widely acclaimed. The prophecies also provide the basis for the
+special honor given to the tribes of Levi and Judah (L-J theme). But the most noticeable
+part of the prophecies is the Messianic theme that seems to point to Jesus as the coming
+Messiah.
+       The T12P says that the Lord will take a human body; be manifest on earth as a
+man; come from the tribe of Judah; be born of a virgin; be sinless; be God and man; eat
+with human beings; save Israel and the Gentiles; be impaled by the sons of Israel (more
+specifically their priests); be called a Deceiver, but His real name will be Christ (the
+Savior of the world); be sold for thirty pieces and killed; His innocent blood will be on
+their heads; the veil of the Temple will be torn when He is raised up on wood; He will be
+the Lamb of God who takes away the sin of the world; and He will take Israel back again
+through faith and water. All those who trust in Him will rule with Him. 1
+
+                                     Historical Review
+
+Grosseteste
+       With these types of prophecies and other allusions that point to Jesus as the Christ,
+it is understandable that when Robert Grosseteste was finally able to get a copy from
+Greece of this Greek manuscript and translate it into Latin (and thus introduce it to the
+West) that he and other the church leaders of the West believed that T12P was an ancient
+witness that contained reliable and genuine prophecies that had originated with the
+patriarchs concerning Christ. Although it was not canonical, the Occident did rank its
+prophecies with that of the OT when they discovered it in the 12th century. Naturally,
+they assumed that it was originally written in Hebrew. They further believed that the
+Jews had kept this writing hidden because it clearly pointed to the fact that Jesus is the
+Christ. 2
+
+1
+ See Chart 1. Selected Christian Interpolations.
+2
+ M. de Jonge, “Robert Grosseteste and the Testaments of the Twelve Patriarchs,” Journal of Theological
+Studies 42 (1991).
+                                                                                                        2
+
+
+Grabe
+      As can be seen in Chart 2. Historical Overview, this high opinion of the T12P was
+challenged by Grabe at the close of the 16th century. 3 Like others, Grabe considered it a
+Jewish document that was written in Hebrew. However, he argued that the material that
+points so specifically to Jesus was added later by Christians. The naive days of
+considering the document as presenting authentic prophecies pointing to Jesus as Christ
+were gone forever. Nevertheless, it could still be valuable for understanding the Jewish
+and Christian periods from which the document and the interpolations came—if these
+parts could be distinguished. However, although scholars agreed with Grabe that the
+document had been interpolated, they did not agree with him that it was originally a
+Jewish document. The consensus was that it was written by a Christian in Greek and that
+the interpolations, if there were any, were added by other Christians. In other words, it
+was viewed as being originally a Christian document with possible subsequent Christian
+interpolations. For example, as indicated in Chart 2, some scholars during this period
+believed that the original document was written by a Jewish-Christian in Greek, and then
+a Gentile-Christian added material to it later.
+
+Schnapp-Charles
+       However, beginning with Schnapp in 1884, the consensus switched back to the
+position that the document was originally a Jewish document, but now the specific
+prophecies were considered Christian interpolations. This consensus was established by
+literary criticism, source criticism, and text criticism. It was believed that although the
+earliest texts are Greek texts (10th century and later), they could be traced back by text
+criticism to a Hebrew original. Further, these Greek texts were divided into two families
+(A & B), with preference beginning given to the Greek group A since it had the shorter
+reading with less Christian interpolations. This was confirmed by the fact that there were
+some later Armenian texts which also had shorter readings with fewer interpolations.
+Although these positions did not originate with Charles, he is the one who brought them
+all together with the result that the consensus for about the next fifty years remained that
+T12P was a Jewish document written in Hebrew with Christian interpolations.
+       There are two important points about this period, however, that must be pointed
+out. Charles’ textual theory was challenged by some within his own camp who concluded
+that Greek group A was not superior to Greek group B (which had the longer readings).
+Although this greatly weakened the textual basis for Charles’ theory, his position was still
+assumed correct. Second, it was expected that from the Qumran discoveries that a copy of
+T12P in Hebrew would be found and thus confirmed the assumption that T12P was
+originally written in Hebrew.
+
+
+
+
+3
+  As can be seen on in Chart 2. Historical Overview, there were at least two other scholars who challenged
+the popular position. See H. Dixon Slingerland, The Testaments of the Testaments of the Twelve
+Patriarchs: A Critical History of Research (Missoula: Scholars Press, 1977), 16, n. 16.
+                                                                                                         3
+
+
+                                        Three Positions
+
+Essene
+       The Qumran discoveries led to a very popular hypothesis concerning the authorship
+of this document that was considered Jewish. Dupont-Sommer and his student
+Philonenko argued that T12P was produced by Essenes at Qumran and had little to do
+with Christ or Christianity. They argued that both the Qumran scrolls and the T12P have
+two Messiahs. The scrolls present two Messiahs from Aaron and Israel, and thus a double
+messiahship expectation was current in the time period of Qumran. The T12P, in its final
+form, fuses these two Messiahs together into one figure. 4
+       Although there are a few other similarities between the Qumran material and the
+T12P, the dissimilarities are acknowledged today by scholarly consensus as being much
+more pronounced. The finds are too fragmentary and remote to carry any significant
+weight in the discussion of the T12P. Milik, the editor of the Aramaic fragments from
+Qumran, rejects the argument that the T12P originated in Qumran. Instead, he believes
+that the author of T12P was a Christian who drew on these and other Jewish sources. 5 In
+short, he takes the position of M. de Jonge.
+
+Christian
+       In 1953 M. de Jonge readvanced the argument that the author of T12P was a
+Christian “compilator, not an interpolator.” 6 It evidences Christian compilation, not a
+Christian interpolation. Instead of presenting us with two Messiahs, M. de Jonge argues
+that the Messiah is presented (somewhat inconsistently and awkwardly) by the
+compilator as being from the tribes of both Levi and Judah. TJos 19:11 says that He shall
+come “from them” (Armenian text), that is, from “their seed” (Greek text). But the
+proceeding context establishes the perception that He shall literally come as a king from
+the tribe of Judah, being born of that tribe (TJos 19:8). And as M. de Jonge points out,
+there are other texts that also indicate that the Messiah shall come from Judah alone. 7
+But the Messiah shall apparently come typologically as a high priest from the tribe of
+Levi. 8
+       In a lengthy article evaluating the Qumran position, M. de Jonge concludes that the
+Christian document hypothesis is the simplest one. “The Levitical priesthood will be
+
+4
+  John J. Collins, “Testaments,” in Jewish Writings of the Second Temple Period, ed. M. Stone (Fortress
+Press: Van Gorcum, 1984), 341.
+5
+  Ibid., “The Testamentary Literature in Recent Scholarship,” in Early Judaism and Its Modern Interpreters,
+eds. Robert Kraft and George Nickelsburg (Atlanta: Scholars Press, 1986), 270.
+6
+  M. de Jonge, The Testaments of the Twelve Patriarchs, 2nd edition (Netherlands: Van Gorgum, 1975),
+42.
+7
+  Ibid., 88, 124. See TNaph 8:2f.; TJos 19:8, TLevi 18, and TLevi 19.
+8
+  Considering the book of Hebrews, it is perhaps strange to the modern reader that a Christian writer would
+demonstrate the priesthood of Jesus from the tribe of Levi. It might be a little bit more understandable if
+the writer was a Jewish Christian from the tribe of Levi, as seems to be the case. However, “to the first
+commentator of the Bible whose writings are known to us, Hippolytus of Rome…and his readers Jesus was
+obviously to be connected with Levi as well as with Judah.…Exegetical treaties like those of Hippolytus
+show early Christianity as a community reading and interpreting Scripture—often very much ad hoc and
+unsystematically.” M. de Jonge, “The Transmission of the Testaments of the Twelve Patriarchs by
+Christians,” Vigiliae Christians 47 (1993): 18.
+                                                                                                              4
+
+succeeded by Christ as high priest, as is taught in the Epistle to the Hebrews.” 9 He
+further notes that the Qumran advocates use the T12P to support their interpretation of
+the certain Qumran texts and then use those same Qumran texts to prove that the T12P is
+Qumranic. 10 The Qumran texts are not without difficulty in interpreting. Higgins even
+concludes that “at Qumran there was not a belief in a secular and a priestly Messiah, but
+only in a messianic Davidic prince and deliver.” 11 In other words, in his opinion, only
+one Messiah was expected by Qumran.
+       After evaluating the Qumran texts, Higgins then proceeds to examine the T12P
+texts such as TReu 6:8, for which he gives this translation: “Hearken to Levi, because
+he…gives ordinances for judgement (sic) and sacrifices for all Israel, until the
+consummation of the times of the anointed high priest [or, of Christ the high priest] of
+whom the Lord spoke.” 12 This could be paraphrased as, “Listen to Levi concerning the
+sacrifices until the consummation of Christ the high priest.” 13 The result is that “Jesus
+Christ as high priest of another kind succeeds the tribe of Levi.” 14 Thus, Higgins
+concludes that there was “no prior conception of a priestly Messiah which could have
+influenced the author of the epistle to Hebrews. While Jesus is depicted as both Messiah
+and high priest, Jewish thought separated the priestly and royal functions.” 15
+
+Jewish
+      Such an attitude toward the Qumran discoveries is not limited to the de Jonge
+camp, however. Bickerman is an example of the response to the discoveries of Qumran
+from Charles’ camp. Bickerman finds the two Messiah theory advanced as a result of the
+Qumran documents to be a figment of the imagination of modern scholars. He claims that
+T12P does not profess that a Messiah will come from the tribe of Levi and that the T12P
+asserts that salvation, not a Savior, will come from both tribes (TSim 7:2). 16
+
+                                              Evaluation
+     The Qumran position has few advocates today. The issue has returned to viewing
+the T12P as originally a (non-Essene) Jewish document versus a Christian document.
+Even Kee and Charlesworth, advocates of the Jewish theory, admit that M. de Jonge has
+demonstrated that there are Christian redactions in T12P rather than mere
+
+
+
+9
+   M. de Jonge, “Christian Influence in the Testaments of the Twelve Patriarchs,” Novum Testamentum 4
+(1960): 211.
+10
+   Ibid., 220.
+11
+   Angus J. B. Higgins, “The Priestly Messiah,” New Testament Studies 13 (1967): 218; cp. 222. See also
+his comments on p. 221 where the Qumran texts and the T12P are in different category of evidence.
+Therefore, they cannot be used to interpret the Qumran texts.
+12
+   Ibid., 223. The insertion, “Christ the high priest,” is his. “Anointed high priest” () is
+rendered, “Christ the high priest.”
+13
+   Compare Marinus de Jonge, “The Future of Israel in the Testaments of the Twelve Patriarchs,” Journal
+for the Study of Judaism 17 (1986): 202.
+14
+   Higgins, Priestly, 224. The “he” of v. 11 is then taken as referring to Judah.
+15
+   Ibid., 230.
+16
+   Elias J. Bickerman, “The Date of the Testaments of the Twelve Patriarchs,” Journal of Biblical Literature
+69 (1959): 252. However, note that although Charles’ text reads “salvation,” Kee’s text reads, “the
+Savior.”
+                                                                                                   5
+
+interpolations. 17 This acknowledgment is especially important in view of the differences
+between the redactions and interpolations. These key terms were defined at the seminar
+at Duke. Charlesworth was the chairman of the seminar. Both Kee and M. de Jonge were
+invited as specialists to present a paper in defense of their position and to respond to a
+discussion of their views. They were both accepted, and these definitions emerged.
+
+        Interpolations are insertions into the text that disrupt the flow of thought or
+        add specific details…They can be removed because of their linguistic
+        structure, which is usually genitivial, parenthetical, or otherwise self-
+        contained.…
+             Redactions are passages embedded into the fabric of the document
+        and cannot be excised. Early sources are so worked from a new
+        perspective that they cannot be distinguished from the more recent
+        sections.…
+             …it is often impossible to distinguish between an interpolation and a
+        redaction. Frequently it is difficult to find the precise borders of an
+        interpolation, and an apparent interpolation might be a passage in which
+        the redactor has failed to achieve the usual integration, transition or flow
+        of thought. The discovery of an interpolation does not disclose that a
+        document is to be characterized as an interpolated text; interpolations are
+        often made to documents which are redactional in nature. 18
+
+       At both the seminar and in the introduction to his translation, Kee claims that there
+are only twelve Christian interpolations in the T12P at the very most and that these
+interpolations can be easily identified! 19 However, the reader can readily see in Chart 1.
+Selected Christian Interpolations that in Kee’s text and textual notes he identifies many
+more interpolations. One would probably conclude that the rest are redactions. After all,
+Kee says that he agrees with M. de Jonge that the T12P “are the end product of a long
+literary process with Jewish and Christian redactional stages.” 20 However, the more
+Christian redactions that are acknowledged, the weaker the Jewish argument becomes.
+Perhaps this is the reason that when Kee was confronted by M. de Jonge in a seminar,
+Kee claimed “that the only clear instance where removal of a phrase affects the whole
+context is TJos xix. 8.” 21 One redaction? In any case, Charlesworth acknowledged that
+he himself was convinced by M. de Jonge during the seminar that the removing of the
+interpolations in some of the places “effected ramifications elsewhere in the document.
+M. de Jonge convincingly showed that a hypothesis of minor Christian interpolations,
+self-contained and easily removed, would not suffice.” Kee may find it easy to identify
+and remove the interpolations, but Charlesworth does not! Kee’s acknowledgment of
+redactions is much more theoretical than practical.
+
+17
+   Howard C. Kee, “Ethical Dimensions of the Testaments of the XII as a Clue to Provenance,” New
+Testament Studies 24 (1978): 17. James H. Charlesworth, “Reflections on the SNTS Pseudepigrapha
+Seminar at Duke on the Testaments of the Twelve Patriarchs,” New Testament Studies 23 (1977): 299.
+18
+   Charlesworth, “Seminar,” 303.
+19
+   James H. Charlesworth, ed., The Old Testament Pseudepigrapha, 2 vols. (New York: Doubleday, 1983),
+777. Compare Kee’s similar statement and list in “Ethical,” 267, n. 2; 268, n. 1.
+20
+   Kee, “Ethical,” 17.
+21
+   Charlesworth, “Seminar,” 299, n. 4.
+                                                                                                  6
+
+
+                                            Author
+       The author implicitly identifies himself in TLevi 19:2-3 by using the first plural for
+numbering himself among the sons of Levi. As a result, it is best to take this self-
+identification to mean that he was either a literal descendent of the tribe of Levi or a
+priest. 22 If Christian authorship is assumed, then it should be concluded that he was a
+Jewish-Christian from the tribe of Levi.
+
+                                              Date
+      The general consensus is that the Christian redaction of the T12P was completed in
+the second century. Both Origen and Jerome made a single brief quote of the T12P in
+their writings. Origen’s quote is the oldest and establishes that it must have been
+completed by the end of the second century A.D. And the consistent use of the LXX in
+the document proves that it was written after the LXX was completed; thus, it was written
+after the beginning of the second century B.C. Those preferring a Jewish document
+hypothesis normally date it sometime during the second century B.C., while those
+preferring a Christian document hypothesis generally prefer a late second century A.D.
+date.
+
+                                             Place
+                                             23
+     Egypt, Palestine, or the Diaspora are among the possibilities as well as Sidon,
+Gadara, and Antioch. 24 And of course, Alexandria is a top candidate. 25
+
+                                         Canonicity
+       Views on the authority of the T12P vary. Origen did not consider it canonical but
+attributed some authority to it, 26 as did St. Augustine. 27 M. de Jonge certainly has a high
+opinion of T12P: “Lack of authenticity does not preclude authority…Whoever exactly
+may have been the author of the Testaments, the words…they contain are as true and
+reliable as the testimonies of Christ contained in Holy Scripture.” In his opinion, they are
+on the same ground as the words written in red in our New Testament translations!
+Bickerman’s view is not quite as high—although the Greek church did not acknowledge
+its authority, the Occidental clergy accepted its authority, but critics came to regard it as
+“a Christian forgery.” 28
+
+
+
+
+22
+   M. de Jonge, Testaments, 112. See also H. Dixon Slingerland, “The Levitical Hallmark Within the
+Testaments of the Twelve Patriarchs,” Journal of Biblical Literature 103 (1984): 531-537.
+23
+   Collins, “Recent,” 275.
+24
+   Knee, “Ethical,” 270.
+25
+   Charlesworth, ”Seminar,” 302.
+26
+   M. de Jonge, “Transmission,” 15.
+27
+   M. de Jonge, “Grosseteste,” 12.
+28
+   Bickerman, “Date,” 246. Charles points out that the Testaments were numbered among the “Apocrypha
+in the Stichometry of Nicephorus, the Synopsis of Athanasius, and in the Anonymous List of Canonical
+Books published by Montfaucon, Petra, and others.” R. H. Charles, The Testaments of the Twelve
+Patriarchs, (London: Adam and Charles Black, 1908), lxxviii.
+                                                                                                      7
+
+
+                                               Texts
+
+Hebrew
+      There are no ancient Hebrew texts of the T12P. Although Gaster thought that the
+Hebrew TNaph discovered at Qumran “was the original of the Greek Testament,” these
+fragments are late and only very loosely associated with the TNaph in the T12P. 29 The
+other Hebrew testaments of Judah and Naphtali are much later.
+
+     Aramaic
+        The fragments discovered at Qumran are only partial and remote parallels to TLevi.
+
+Greek
+       T12P exists only in Greek manuscripts and in Armenian and Slavonic translations
+made from the Greek. 30 “Even de Jonge’s critics now reject Charles’ views on the text. It
+seems safe to say that the attempt to remove Christian interpolations by means of textual
+criticism has been thoroughly undermined.” 31 “There is now a virtual consensus that the
+Testaments were written in Greek, contrary to the view of Charles.” 32
+
+Armenian
+      The Armenian texts do not show interpolation but abbreviations. 33 They have a
+“tendency to shorten the text, even more so than the Greek manuscripts that have
+abbreviations. The text-critical rule lectio brevior potior certainly does not hold good for
+the Testaments…the shorter, less ‘Christian,’ Armenian text is not closer to the
+original.” 34 Both camps agree with this assessment of the Greek and Armenian texts,
+which practically destroys the textual basis for Charles’ theory.
+
+                                     Original Language
+      M. de Jonge states that the author’s theme for TIss came form the LXX, which
+shows that he knew Greek. 35 But M. de Jonge opponent, Kee, gives even better
+arguments for believing that the T12P was originally written in Greek: consistent use of
+the LXX, Greek proper names without any Semitic counterpart, distinctively Greek
+names for various places, Hellenistic concepts, assonance, following the LXX in
+identifying the chief cook as the man who purchased Joseph rather than the captain of the
+guard, Hellenistic technical terminology for which there are no Hebrew equivalents. 36
+Again, those within Charles’ camp are increasingly basing their convictions on
+considerations other than text criticism since they now acknowledge that it was written in
+Greek.
+
+29
+   Collins, “Testaments,” 332, n. 36.
+30
+   Bickerman, “Date,” 245.
+31
+   Collins, “Recent,” 272.
+32
+   Ibid., 274.
+33
+   M. de Jonge, “The Main Issues in the study of the Testaments of the Twelve Patriarchs,” New Testament
+Studies 26 (1980): 509.
+34
+   M. de Jonge, “Transmission,” 11.
+35
+   M. de Jonge, Testaments, 78.
+36
+   Kee, “Ethical,” 269.
+                                                                                                   8
+
+
+                                        Significance
+
+Qumran
+      From the view of the Essene origin of the T12P, the so-called Christian
+interpolations are not interpolations pointing to Jesus; rather, they point to the Teacher of
+Righteousness, and the T12P is an important link in helping us understand the Dead Sea
+Scrolls.
+
+Christian
+      From the perspective of Christian origin, this document is a product of the early
+Christian church and shows a Jewish-Christian using Jewish Haggadah material, etc., to
+promote Jewish-Christian ethics 37 on the basis of what happened to the patriarchs and the
+prophesied Messiah, Jesus. These ethical promotions are also based on what will happen
+in the future to believers, non-believers, and the Messiah when the Lord returns. They
+promote love and morality. Additionally, the T12P may have been written as a Christian
+response to the Jews, as was the case for Justin’s Dialogue. 38 As such, it would be
+another example of early Christian apologetics. However, it could also be considered an
+early example of Christian evangelism to the Jews. 39
+
+Jewish
+       The Jewish advocates believe “it is a major witness to Jewish paraenesis [ethical
+exhortations and teaching] just prior to Christianity.” 40 It was written to by a Jew to Jews
+to promote fidelity to the Jewish faith in the midst of apostasy (cp. TIss 6:1) and love for
+fellow Jewish brethren in a powerful and original way two centuries before Christians
+began promoting love of Christian brethren. 41 Kee gives a very extended list of their
+significance. 42
+       However, the above presentations fall short of Charles’ enthusiasm. The very last
+chart of Charles’ book is a list of 110 references from the New Testament, and he claims
+that in these 110 passages, the New Testament is dependent upon the T12P. 43 In 1908
+Plummer tried to counter Charles’ claim that the New Testament used the T12P so
+extensively and was so dependent upon the T12P by claiming that these parallels were
+really Christian interpolations. 44 But if Kee is correct and this Jewish book has only a
+dozen Christian interpolations and very few redactions, then even Charles’ attitude
+toward this book is milder than it should be.
+       In Charles’ opinion, the ethical teaching of the T12P is “indefinitely higher and
+purer than that of the Old Testament…and helps to bridge the chasm that divides the
+
+37
+   M. de Jonge, “The Pre-Mosaic Servants of God in the Testaments of the Twelve Patriarchs and in the
+Writings of Justin and Irenaeus,” Vigiliae Christianae 39 (1985): 169.
+38
+   Graham N. Stanton, “Aspects of Early Christian-Jewish Polemic and Apologetic,” New Testament
+Studies 31 (1985): 377-392.
+39
+   M. de Jonge, “Israel,” 210-211.
+40
+   Charlesworth, “Seminar,” 304.
+41
+   Walter. Harrelson, “Patient Love in the Testament of Joseph,” Perspectives in Religious Studies 4
+(1977): 4-13.
+42
+   Charlesworth, Pseudepigrapha, 778-780.
+43
+   Charles, Testaments, 238-239.
+44
+   Slingerland, History, 34-35.
+                                                                                            9
+
+ethics of the Old and New Testaments.” 45 For example, the T12P is far superior to the
+OT concerning the subject of forgiveness. 46 TGad 6:3-7 “is the most remarkable
+statement on the subject of forgiveness in all ancient literature.” 47 And the T12P is the
+first literary piece to join the commandments that we should love God and our
+neighbor. 48 The T12P is the first Jewish literature to use the phrase, “New Jerusalem.” 49
+And it is the most ancient reference to “crowns” being given as eschatological rewards. 50
+For these and many other items, the New Testament is dependent upon the Testaments of
+the Twelve Patriarchs according to Charles’ camp.
+
+                                      Conclusion
+       The old debate about whether the T12P is a Jewish or a Christian document
+continues. Although both sides talk today of redactions, in practice, the Jewish side of the
+argument still thinks primarily in terms of interpolations. Since the textual evidence
+favors it being a Christian document, it would appear that the Jewish argument is based
+more so on the results of higher criticism. In this case, we are presented with a document
+that deserves very careful attention since a considerable amount of the New Testament is
+dependent upon it. On the other hand, if it is a Christian document, it demonstrates
+dependency upon the New Testament. In either case, it shows how a second-century
+Jewish-Christian (be he interpolator or redactor) tried to reach out to those about him
+using ethical exhortations in the medium of a literary device that was accepted in the
+culture of his day. His purpose was to encourage his fellow believers in the faith and to
+attract his fellow Jews to the faith.
+       It should be remembered that both sides believe the final form of the document by
+the end of the second century A.D. was a Christian document. Even in the case of the
+Jewish hypothesis, it is acknowledged as being interpolated by Christians, preserved by
+Christians, and used by Christians. Although Christians today may find the idea repulsive
+of using Christian fiction evangelistically and apologetically, evidently, there were early
+Christians who did not have reservations about using it in this manner. On the one hand,
+it can be asked if it is ethical to use lies presented as truth to teach ethics! On the other
+hand, it can be asked that if the founder of Christianity used stories to illustrate spiritual
+truth, then is it not permissible for His followers to do the same. Sometimes the Christian
+community has had trouble deciding where the fiction ends, and the reality begins. For
+example, are the stories of the prodigal son and the rich man and Lazarus fictional or real.
+Even if they are fictional, does this nullify their truthfulness? The T12P is a Christian
+book about ethics from the past that raises interesting ethical questions for Christians
+today.
+
+
+
+
+45
+   Charles, Testaments, xvii.
+46
+   Ibid., xcii-xcv.
+47
+   Ibid., 155.
+48
+   Ibid., lxxix.
+49
+   Ibid., 131.
+50
+   Ibid., 203.
+                                                                                                     10
+
+
+                                            Appendix
+                          Chart 1. Selected Christian Interpolations 51
+1. TSim 6:5           God the Lord…will be manifested upon               all Mss. contain this
+                      the earth [as a man]                               expression
+2. TSim 6:7           I shall bless the Most High for his                no textual evidence cited
+                      marvels, [because God has taken a body,            for omission (cp. TAsh
+                      eats with human beings, and saves                  7:3; TDan 5:13; 6:9)
+                      human beings].
+3. TSim 7:2a          For the Lord will raise up from Levi               no textual evidence cited
+                      someone as high priest and from Judah as           for omission
+                      king [God and man].
+4. TSim 7:2b          He will save {all the gentiles} and theomissions by A of this
+                      tribe of Israel.                       type of phrase in TJos
+                                                             19:11; TBenj 3:8; 12:2;
+                                                             TSim 7:2; but cp. TAsh
+                                                             7:3
+5. TLevi 4:4          The Lord shall visit all the nations this text is omitted by
+                      forever, (although your sons will lay Charles
+                      hands on him in order to impale him).
+6. TLevi 10:2         I am free of responsibility for your Christ is omitted by
+                      impiety or for any transgression which AS1; cp. TLevi 14:2;
+                      you may commit…[against Christ, the Kee believes the entire
+                      Savior of the world] in leading Israel chapter has been
+                      astray                                 modified (redacted).
+7. TLevi 10:3         …the curtain {of the Temple} will be  =
+                      torn                                   
+                                                             (many
+                                                             texts read )
+                                                             Mk 15:38 =
+                                                             . Charles
+                                                             and Kee believe veil was
+                                                             the original reading and
+                                                             was changed to curtain
+                                                             by a Christian editor.
+                                                             Without citing any
+                                                             textual support, Charles
+                                                             suggests that of the
+                                                             Temple was interpolated.
+
+51
+    The translations given in the chart are those given by Kee in Charlesworth’s Pseudepigrapha, unless
+otherwise noted as being from Charles (Testaments). Quotations are from the respective author’s textual
+note beneath the cited text. The various brackets and quotations are based on both the texts and textual
+notes of both works:
+[ ] = considered Christian interpolation by both Charles and Charlesworth;
+{ }= considered Christian interpolation by only Charles;
+( ) = considered Christian interpolation by only Charlesworth.
+                                                                                    11
+
+
+8. TLevi 14:1    You will act impiously against the Lord,    in  not 
+                 setting your hands to every evil deed
+                 {against Him}
+9. TLevi 14:2    For your father, Israel, is pure with       no textual evidence cited
+                 respect to all the impieties of the chief   for omission; cp. TLevi
+                 priests, [who laid their hands on the       10:2
+                 Savior of the world]
+10. TLevi 16:3   You persecute just men…{A man who           Cp. Mt 27:24-25,63. In
+                 by the power of the Most High renews        his note, Charles explains
+                 the Law you name “Deceiver,” and            that the verse has
+                 finally you shall plot to kill him, not     probably been recast
+                 discerning his eminence; by your            (redacted) rather than
+                 wickedness you take innocent blood on       interpolated. Kee believes
+                 your heads.}                                the entire chapter has
+                                                             been reworked
+                                                             (redacted). In other
+                                                             words, since there is no
+                                                             textual or contextual
+                                                             reason to omit the verse
+                                                             from this supposedly
+                                                             Jewish document, they
+                                                             assume Christian
+                                                             redaction!
+11. TLevi 16:5   he will…take you back in compassion         omitted by Kee although
+                 {through faith and water)                   contained in a variety of
+                                                             manuscripts
+12. TLevi 18:6   The heavens will be opened, and from        The heavens are opened;
+                 the temple of glory sanctification will     the voice of the father
+                 come upon him, with a fatherly voice, as    comes forth addressing
+                 from Abraham to Isaac.…And the spirit       him as from Abraham to
+                 of understanding and sanctification shall   Isaac, i.e., as a son, and
+                 rest upon him [in the water].               the spirit comes and rests
+                                                             upon him. To this
+                                                             supposedly Jewish
+                                                             document, a Christian is
+                                                             assumed to have added
+                                                             the words in the water.
+                                                             With the exception of e,
+                                                             These words are found in
+                                                             all the MSS and version.
+13. TLevi 18:9   Lawless men shall rest from their evil      no textual evidence cited
+                 deeds, {and righteous men shall find        for omission
+                 rest in him}.
+                                                                                       12
+
+
+14. TJud 24:4    {This is the Shoot of God Most High;         second half of verse
+                 this is the fountain for the life of all     found in both and
+                 humanity.}
+15. TZeb 9:8     the Lord himself will arise upon             various texts omit the
+                 you…with healing and compassion in his       phrase
+                 wings.…He        will    liberate    every
+                 captive…And you shall see [God in
+                 human form], he whom the Lord will
+                 chose: Jerusalem is his name.
+16. TDan 5:11    And he shall take from Beliar the            no textual evidence cited
+                 captives, {the souls of saints}              for omission
+17. TDan 5:13a   And Jerusalem shall no longer undergo        no textual evidence cited
+                 desolation…because the Lord will be in       for omission
+                 her midst [living among human beings].
+18. TDan 5:13b   The Holy One of Israel will rule over        no textual evidence cited
+                 them {in humility and poverty, and he        for omission; cp. TDan
+                 who trusts in him shall reign in truth in    6:4
+                 the heavens}.
+19. TDan 6:7     His name shall be everywhere throughout      omitted by A; Savior
+                 Israel; [and the Savior will be known        found in  and S1
+                 among the nations].
+20. TDan 6:9     What you have heard from your father         The father of nations is
+                 pass on to your children, {so that the       rendered the Savior of the
+                 father of nations may accept you. For        Gentiles by Charles.
+                 he is true and patient, lowly and
+                 humble, exemplifying by his actions the
+                 Law of God}.
+21. TNaph 8:3    Through his kingly power God will            no textual evidence cited
+                 appear [dwelling among men on the            for omission; cp. TSim
+                 earth], to save the race of Israel, and to   6:4 and TZeb 9:8
+                 assemble the righteous from among the
+                 nations.
+22. TGad 2:3     I sold him to the Ishmaelites (for thirty    found in AS1 not in 
+                 pieces of gold; we hid ten pieces and
+                 showed only the twenty to our brothers).
+23. TGad 7:3a    You will be scattered…in the                 no textual evidence cited
+                 dispersion…until such time as the Most       for omission
+                 High visits the earth. [ He shall come as
+                 a man eating and drinking with human
+                 beings]
+24. TGad 7:3b    He will save Israel and all the nations,     no textual evidence cited
+                 [God speaking like a man]                    for omission
+                                                                                       13
+
+
+25. TJos 19:8     cS1: And I saw that a [virgin] was born     All the texts state that a
+                  [from Judah], [wearing a linen stole;        virgin gave birth to a
+                  and from her] was born a [spotless]          lamb. However, by
+                  lamb.                                        appealing to contextual
+                                                               rather than textual
+                  A: And I saw in the midst of the horns a     evidence and by
+                  certain [virgin] [wearing a multicolored     assuming corruption and
+                  stole]; from her came a lamb.                interpolation, Charles
+                                                               transforms the passage by
+                                                               transforming a calf into a
+                                                               lamb!
+26. TJos 19:11    cS1: Honor Levi and Judah, because          The Armenian text
+                  from their seed will arise [the Lamb of      simply reads salvation.
+                  God who will take away the sin of the
+                  world], and will save [all the nations, as
+                  well as] Israel.
+
+                  A: from them shall arise the salvation of
+                  Israel.
+27. TBenj 3:8     Through you will be fulfilled the            Found in cS1 but not in
+                  heavenly prophecy [concerning the            A.
+                  Lamb of God, the Savior of the world],
+                  because the unspotted on will be betrayed
+                  by lawless men, and the sinless one will
+                  die for impious men [by the blood of the
+                  covenant for the salvation of Israel and
+                  the destruction of Beliar and his
+                  servants].
+28. TBenj 9:2     The Most High shall send forth his           Charles translates
+                  salvation through the ministration of the     as only-
+                  {unique} prophet.                            begotten rather than
+                                                               unique and considers it “a
+                                                               Christian recast.”
+29. TBenj 9:3-5   cS1: [He shall enter the first temple,      The Armenian translation
+                  and there the Lord will be abused and        is from Charles. Both
+                  will be raised up on wood. and the           Charles and Kee consider
+                  temple curtain shall be torn, and the        the passage a Christian
+                  spirit of God will move on to all the        interpolation in spite of
+                  nations as a fire is poured out. and he      the fact that it is
+                  shall ascend from Hades and shall pass       contained in all the texts.
+                  on from earth to heaven. I understand        Cp. TLevi 10:3.
+                  how humble he will be on the earth, and
+                  how splendid in heaven.]
+
+                  continued:
+                  A: [And the Lord shall be treated with
+                                                                                          14
+
+
+                   outrage and set at nought. And he will
+                   depart from earth to heaven: for I knew
+                   how He is on earth and how in heaven, or
+                   what is His measure and place and way.]
+30. TBenj 3:7-9    cS1: Then shall we also rise, each one         Charles’ translation of
+                   over our tribe, worshipping the King of         cS1. On the basis of the
+                   heaven, [who appeared upon earth in             Armenian text, which
+                   the form of a man in humility. And as           omits these phrases, Kee
+                   many as believe on Him on the earth             omits these phrases in his
+                   shall rejoice with Him]. Then also all          translation without even
+                   men shall rise, some unto glory and some        so much as a footnote
+                   unto shame. And the Lord shall judge            that they exist!
+                   Israel first, for their unrighteousness; [for
+                   when He appeared as God in the flesh to
+                   deliver them they believed Him not].
+                   And then shall He judge all the Gentiles,
+                   [as many as believed Him not when He
+                   appeared upon earth].
+31. TBenj 11:1-2   I shall not longer be called a rapacious        These phrases are omitted
+                   wolf…but {“the Lord’s worker”                   in A.
+                   providing food for those who do good
+                   works. And in later times there shall rise
+                   up} the beloved of the Lord, {from the
+                   lineage of Judah and Levi,} one who
+                   does his good pleasure by his mouth,
+                   {enlightening all the nations with new
+                   knowledge}.
+                                                                                                                             15
+
+                                          Chart 2. Historical Overview 52
+
+                                                        Two major
+                                                         positions
+
+
+                            Jewish                                                Christian
+                           document                                               Document
+
+
+                       Grosseteste, 1242
+                            Hebrew
+                         Paris, 13th cent.
+                             Hebrew
+                                                                             Dodwell         Cave
+                          Grabe, 1698                                       pre-Grabe     pre-Grabe
+                     Christain interpolations
+                             Hebrew
+                                                             Le Nourry,1700      Fabricus, 1700       Gallandi, 1765
+                                                                 Greek               Greek                Greek
+                                                                                  Corrodi,1781
+                                                                                 Jewish-Christian
+                                                                Nitzsch,1810                       Dorner,1845
+                                                       uninterpolated Jewish-Christian    uninterpolated Jewish-Christian
+                                                                    Greek                              Greek
+                                                              Ritschl, 1850                           Kayser, 1851
+                                                             Gentile-Christain                      Jewish-Christian +
+                                                                                                     Gentile-Christian
+                                                             Vorstman,1857
+                                                             Gentile-Christian                        Ritschi, 1857
+                                                            Helgenfeld, 1858                        Jewish-Christain +
+                                                            Gentile-Christian                        Gentile Chritain
+                                                                                                    Langen, 1866
+                                                                                           uninterpolated Jewish-Christian
+                                                                                                        Greek
+                                                                                                    Sinker, 1869
+                                                                                           uninterpolated Jewish-Christian
+                                                                                                    Geiger, 1869
+                                                                                           uninterpolated Jewish-Christian
+
+                         Schnapp, 1884
+                         literary-criticism
+                           interpolations
+
+                  Baljon, 1886    Schurer, 1886
+                                                                                                    Deane, 1891
+                de Faye, 1892       Kohler, 1892                                           uninterpolated Jewish-Christian
+
+             Conybeare, 1893         Gaster, 1894
+               text criticism       source criticism
+              Armenian text            Hebrew
+
+                                   Presuchen & Bousett, 1900
+             Harnack, 1897
+                                  two Armenian groups: α & β
+            all three critisms
+                                   two Greek groups: A & B
+                         Charles, 1908
+                       Greek a > Greek B
+                            Hebrew
+
+
+
+
+52
+   The early part of this chart (until 1970) is based primarily upon Slingerland, History. For subsequent
+references consult the bibliography of the present work.
+                                                                                                       16
+
+
+
+                  Plumer, 1908
+            parallels = interpolations
+      Burkitt, 1908-09        Hukin, 1914
+     Greek B > Greek A     Greek B > Greek A
+                                                                        Messel, 1918
+                                                                      Greek B > Greek A
+               everyone,1918-1953                           Armenian = paraphrase not interpolations
+                     Hebrew                                                 Greek
+
+
+
+
+   not
+                                            Qumran
+ Qumran
+
+
+
+                                    Rabin & Audet, 1952
+                                  Dupont-Sommer & Otzen,              M. de Jonge, 1953
+                                           1953
+                                           Jones, 1954           Doeve, 1954      Grant, 1955
+                                           Kuhn, 1955                   Danielou, 1955
+                                          two Messiahs                 Jewish-Christian
+                                     Aschermann, 1955                     Milik, 1955
+                                    same time as Qumran                 Qumran TLevi
+                                  Woude & Delcor, 1957-58                is not TLevi
+                                      two Messiahs                     Jewish-Christian
+
+                                      Philonenko, 1959                    Milik, 1956
+                                    Qumran interpolations              Qumran TNaph
+                                      Qumran Messiah                     is not TNaph
+                                       Qumran-Jewish                   Jewish-Christian
+ Bickerson, 1959
+                                           Liver, 1959                    Smith, 1962
+     Hebrew
+                                         Widengree, 1963                Burchard, 1965
+   Baltzer, 1964
+                                                                         text criticism
+                                                                         Higgins, 1966
+  Hultgard, 1971
+ his text critisim =
+                                                                     H. J. de Jonge, 1972
+Christian Document
+                                                                     agreemenent among
+                                                                        the Greek and
+ Harrelson, 1977                                                        Armenian text
+ Greek or Hebrew                                                       criticial studies of
+                                                                     Hunkin, M. de Jonge,
+    Kee, 1978                                                         Burcard, Hultgard,
+      Greek                                                          Stone, and Turdeanu
+                                                                     that the longer text is
+  Williams, 1980
+                                                                        superior to the
+                                                                           shorter text
+Charlesworth, 1981
+                                                                         Stanton,1985
+                                                                         Collins, 1986
+                                                                                     17
+
+
+                              Sources Consulted
+
+Books
+Charles, R. H. The Testaments of the Twelve Patriarchs. London: Adam and Charles
+     Black, 1908.
+Charlesworth, James H., ed. The Old Testament Pseudepigrapha. 2 vols. New York:
+     Doubleday, 1983.
+De Jonge, Marinus. Jewish Eschatology, Early Christian Christology and the Testaments
+     of the Twelve Patriarchs. Netherlands: E. J. Brill, 1991.
+________. The Testaments of the Twelve Patriarchs. 2nd edition. Netherlands: Van
+     Gorgum, 1975.
+________, ed. Studies on the Testaments of the Twelve Patriarchs. Leiden: E. J. Brill,
+     1975.
+Nickelsburg, George, ed. Studies on the Testament of Joseph. Missoula: Scholars Press,
+     1975.
+Slingerland, H. Dixon. The Testaments of the Testaments of the Twelve Patriarchs: A
+     Critical History of Research. Missoula: Scholars Press, 1977.
+Stone, Michael E. The Armenian Version of the Testament of Joseph. Missoula:
+     Scholars Press, 1975.
+
+Essays
+Charlesworth, James H. “Christian and Jewish Self-Definition in Light of the Christian
+      Additions to the Apocryphal Writings.” In vol. 2 Jewish and Christian Self-
+      Definition, eds. E. P. Sanders, A. I. Baumgarten, and Alan Mendelson, 27-55.
+      Philadelphia: Fortress Press, 1981.
+Collins, John J. “Testaments.” In Jewish Writings of the Second Temple Period, ed. M.
+      Stone, 325-355. Fortress Press: Van Gorcum, 1984.
+________. “The Kingdom of God in the Apocrypha and Pseudepigrapha.” In The
+      Kingdom of God in 20th-Century Interpretation, ed. Wendell Willis, 81-95.
+      Peabody: Hendrickson Publishers, 1987.
+________. “The Testamentary Literature in Recent Scholarship.” In Early Judaism and
+      Its Modern Interpreters, eds. Robert Kraft and George Nickelsburg, 268-285.
+      Atlanta: Scholars Press, 1986.
+Vawter, Bruce. “Levitical Messianism and the New Testament.” In The Bible in Current
+      Catholic Thought, ed. John L. McKenzie, 83-99. New York: Herder and Herder,
+      1962.
+Widengren, Geo. “Royal Ideology and the Testaments of the Twelve Patriarchs.” In
+      Promise and Fulfillment, ed. F. F. Bruce, 202-212. Edinburgh: T. & T. Clark, 1963.
+Williams, Prescott H. “The Watchers in the Twelve and at Qumran.” In Texts and
+      Testaments, ed. W. Eugene March, 71-92. San Antonio: Trinity University Press,
+      1980.
+
+Periodicals
+Allison, Dale C. Jr. “Romans 11:11-15: A Suggestion.” Perspectives in Religious
+      Studies 12 (1985): 23-30.
+                                                                                     18
+
+Argyle, Aubrey W. “The Influence of the Testaments of the Twelve Patriarchs upon the
+     New Testament.” The Expository Times 63 (1952): 256-258.
+Bickerman, Elias J. “The Date of the Testaments of the Twelve Patriarchs.” Journal of
+     Biblical Literature 69 (1959): 245-260.
+Charlesworth, James H. “Reflections on the SNTS Pseudepigrapha Seminar at Duke on
+     the Testaments of the Twelve Patriarchs.” New Testament Studies 23 (1977): 296-
+     304.
+De Jonge, Marinus. “The Future of Israel in the Testaments of the Twelve Patriarchs.”
+     Journal for the Study of Judaism 17 (1986): 196-211.
+________. “The Main Issues in the study of the Testaments of the Twelve Patriarchs.”
+     New Testament Studies 26 (1980): 508-524.
+________. “Again: ‘To Stretch Out the Feet’ in the Testaments of the Twelve
+     Patriarchs.” Journal of Biblical Literature 99 (1980): 120-121.
+________. “Christian Influence in the Testaments of the Twelve Patriarchs.” Novum
+     Testamentum 4 (1960): 182-235.
+________. “Once More: Christian Influence in the Testaments of the Twelve
+     Patriarchs.” Novum Testamentum 5 (1962): 311-319.
+________. “Robert Grosseteste and the Testaments of the Twelve Patriarchs.” Journal
+     of Theological Studies 42 (1991): 115-125.
+________. “The Pre-Mosaic Servants of God in the Testaments of the Twelve Patriarchs
+     and in the Writings of Justin and Irenaeus.” Vigiliae Christianae 39 (1985): 157-
+     170.
+________.      “The Testaments of the Twelve Patriarchs: Christian and Jewish.”
+     Nederlands Theologisch Tijdschrift 39 (1985): 265-275.
+________. “The Transmission of the Testaments of the Twelve Patriarchs by
+     Christians.” Vigiliae Christians 47 (1993): 1-28.
+Harrelson, Walter. “Patient Love in the Testament of Joseph.” Perspectives in Religious
+     Studies 4 (1977): 4-13.
+Higgins, Angus J. B. “The Priestly Messiah.” New Testament Studies 13 (1967): 211-
+     239.
+________. “Priest and Messiah.” Vetus Testamentum 3 (1953): 321-336.
+Hilgert, Earle. “The Dual Image of Joseph in Hebrew and Early Jewish Literature.”
+     Biblical Research 30 (1985): 5-21.
+Kee, Howard C. “Ethical Dimensions of the Testaments of the XII as a Clue to
+     Provenance.” New Testament Studies 24 (1978): 259-270.
+Liver, Jacob. “The Doctrine of the Two Messiahs in Sectarian Literature in the Time of
+     the Second Commonwealth.” Harvard Theological Review 52 (1959): 149-186.
+Robinson, Patricia A. “To Stretch Out the Feet: a Formula for Death in the Testaments of
+     the Twelve Patriarchs.” Journal of Biblical Literature 97 (1978): 369-374.
+Slingerland, H. Dixon. “The Levitical Hallmark Within the Testaments of the Twelve
+     Patriarchs.” Journal of Biblical Literature 103 (1984): 531-537.
+________. “The Nature of Nomos (Law) Within the Testaments of the Twelve
+     Patriarchs.” Journal of Biblical Literature 105 (1986): 39-48.
+Stanton, Graham N. “Aspects of Early Christian-Jewish Polemic and Apologetic.” New
+     Testament Studies 31 (1985): 377-392.
+                                                                               19
+
+Wacholder, Ben Zion. “A Qumranic Polemic Against a Divergent Reading of Exodus
+    6:20?” Journal of the Ancient Near Eastern Society 16-17 (1984-1985): 225-228.
+
