@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Misthology Text Library – Marty Cauley</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+  body { font-family: Georgia, serif; margin: 2rem; color: #222; background: #faf9f7; }
+  h1 { font-size: 1.9rem; margin-bottom: .75rem; color: #3a2e1f; }
+  h2 { margin-top: 1.5rem; font-size: 1.4rem; color: #4a3725; }
+  ul { list-style: none; padding: 0; margin: .5rem 0 1rem; }
+  li { margin: .4rem 0; }
+  a { text-decoration: none; color: #1a0dab; }
+  a:hover { text-decoration: underline; }
+  .file { font-size: .85rem; color: #555; }
+</style>
+</head>
+<body>
+<h1>Misthology Text Library</h1>
+<p>Public archive of books and articles by <strong>Marty Cauley</strong>, in plain text form for research and AI analysis.</p>
+
+<h2>Books</h2>
+<ul id="books"></ul>
+
+<h2>Articles</h2>
+<ul id="articles"></ul>
+
+<script>
+fetch("https://api.github.com/repos/MDC-Dream/misthology_texts/contents/")
+  .then(response => response.json())
+  .then(data => {
+    const books = [];
+    const articles = [];
+
+    // Sort and categorize
+    data.filter(f => f.name.endsWith(".txt")).forEach(f => {
+      const cleanName = f.name.replace(/_/g, ' ').replace('.txt','');
+      const itemHTML = `<li><a href="${f.html_url}" target="_blank">${cleanName}</a>
+                        <span class="file">(${(f.size/1024).toFixed(1)} KB)</span></li>`;
+      const lower = f.name.toLowerCase();
+
+      if (
+        lower.includes("misthological") ||
+        lower.includes("book") ||
+        lower.includes("darkness") ||
+        lower.includes("forgiveness") ||
+        lower.includes("grace") ||
+        lower.includes("security") ||
+        lower.includes("faith") ||
+        lower.includes("corinth")
+      ) {
+        books.push(itemHTML);
+      } else {
+        articles.push(itemHTML);
+      }
+    });
+
+    // Alphabetize each group
+    books.sort((a, b) => a.localeCompare(b));
+    articles.sort((a, b) => a.localeCompare(b));
+
+    // Insert alphabetized items
+    document.getElementById('books').innerHTML = books.join('');
+    document.getElementById('articles').innerHTML = articles.join('');
+  })
+  .catch(err => {
+    document.body.innerHTML += "<p style='color:red'>Error loading file list. GitHub API limit may have been reached.</p>";
+    console.error(err);
+  });
+</script>
+
+<p style="margin-top:2rem; font-size:.85rem; color:#666;">
+Generated automatically from the <a href="https://github.com/MDC-Dream/misthology_texts">Misthology Texts repository</a>.
+</p>
+</body>
+</html>
